@@ -1,4 +1,4 @@
-FROM phusion/baseimage:0.9.13
+FROM jjbohn/as-baseimage:0.0.1
 MAINTAINER John Bohn <jjbohn@gmail.com>
 
 ENV HOME /root
